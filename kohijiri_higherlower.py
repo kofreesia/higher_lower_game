@@ -1,3 +1,4 @@
+print("hello")
 import random
 from database import data
 
