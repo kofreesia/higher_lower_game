@@ -1,4 +1,4 @@
-print("hello")
+print("hello, world~")
 import random
 from database import data
 
