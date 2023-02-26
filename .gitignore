@@ -1,7 +1,10 @@
+# ignore all .fastq files
 .fastq
 
 # ignores all .md files
 .md
+
+# ignore all .DS_Stire files
 .DS_Store
 
 # does not ignore the README.md file
