@@ -2,6 +2,7 @@
 
 # ignores all .md files
 .md
+.DS_Store
 
 # does not ignore the README.md file
 !README.md
